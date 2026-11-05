@@ -2,6 +2,7 @@
 
 Inspect the ranked decisions behind bounding box average precision. The examples are synthetic; no YOLO model, weights or GPU is used.
 
+Full illustrated lesson: https://wifarobotics.com/learn/yolo-map-calculation/
 
 Install Python 3.11 or newer from https://www.python.org/downloads/. Download the repository using **Code → Download ZIP**, extract it and open a terminal there. Run `python3 --version`; on Windows use `py -3` instead of `python3`.
 
