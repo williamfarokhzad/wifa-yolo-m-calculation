@@ -1,0 +1,59 @@
+{
+  "truth": [
+    {
+      "image": "a",
+      "label": "gear",
+      "box": [
+        0,
+        0,
+        10,
+        10
+      ]
+    },
+    {
+      "image": "b",
+      "label": "gear",
+      "box": [
+        0,
+        0,
+        10,
+        10
+      ]
+    }
+  ],
+  "predictions": [
+    {
+      "image": "a",
+      "label": "gear",
+      "box": [
+        0,
+        0,
+        10,
+        10
+      ],
+      "score": 0.9
+    },
+    {
+      "image": "a",
+      "label": "gear",
+      "box": [
+        0,
+        0,
+        10,
+        10
+      ],
+      "score": 0.8
+    },
+    {
+      "image": "b",
+      "label": "gear",
+      "box": [
+        0,
+        0,
+        10,
+        10
+      ],
+      "score": 0.7
+    }
+  ]
+}

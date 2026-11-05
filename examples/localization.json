@@ -1,0 +1,27 @@
+{
+  "truth": [
+    {
+      "image": "a",
+      "label": "gear",
+      "box": [
+        0,
+        0,
+        10,
+        10
+      ]
+    }
+  ],
+  "predictions": [
+    {
+      "image": "a",
+      "label": "gear",
+      "box": [
+        0,
+        0,
+        7,
+        10
+      ],
+      "score": 0.9
+    }
+  ]
+}
